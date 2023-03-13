@@ -1,0 +1,38 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Git é um sistema de versionamento distribuído e seguro e foi criado
+por Linus Towards.
+Open Source
+
+Comandos               Windows          Linux
+Mudar de pastas ------>  cd/             cd/
+Listar as pastas ----->  dir             ls
+Cria pastas/arquivos-->  mkdir           mkdir 
+Deletar "      " -----> del/rmdir        rm -rf
+Retroceder dir C:----->  cd..            cd..
+Limpar terminal ------>  cls             clear/ctrl+l
+
+Git init = incicializar repositório do Git
+Git clone = clonar repositório
+Git add = mover arquivos, começar versionamento e conhecer os primeiros e conhecer os primeiros comandos.
+Git add* = acessar várias pastas
+Git commit = criar commit (git commit -m "mensagem")
+Git Status
+
+-a = encontrar arquivos ocultos
+
+/s /Q (flags)
+
+linux
+-rf---> r(recurso) = várias pastas
+        f(force) = não aparece mensagem
+
+ 
+GitHub
+
+Arquivo Markdown = forma mais humana de escrever arquivo HTML
+HTML = esqueleto / estrutura básica de páginas web
+navegador = tags HTML
+
+
